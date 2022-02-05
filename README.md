@@ -83,6 +83,36 @@ SECCIÓN 13–3 Inductores en serie y en paralelo
 
 
 
+CAPITULO 14:
+
+SECCIÓN 14–1 Inductancia mutua
+
+1. ¿Cuál es la inductancia mutua cuando k = 0.75, L1 = 1 mH, y L2 = 4 mH?
+
+![image](https://user-images.githubusercontent.com/93210648/152652374-4a1db1a5-ce8a-479d-bd33-a9d36cda883c.png)
+
+
+
+
+
+4.- Video:
+
+
+
+5.- Conclusiones:
+
+• 
+
+• 
+
+• 
+
+
+
+6.- Bibliografia:
+
+F. (2021). Principles Of Electric Circuits, 8Ed. Pearson.
+
 
 
 
