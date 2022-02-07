@@ -125,12 +125,11 @@ SECCIÓN 14–3 Transformadores elevadores y reductores
 
 5.- Conclusiones:
 
-• 
+• Al tener varios materiales en el nucleo de una bobina se tiene que tener en cuenta que la inductancia es directamente proporcional a la permeabilidad del material.
 
-• 
+• En un circuito electrico, la inductancia total en serie es igual a la suma de las diferentes inductancias que componen el circuito, en tanto que la inductancia total en paralelo es igual al inverso de la suma de cada uno de sus inductancias individuales 
 
-• 
-
+• El voltaje de salida de un transformador depende de la relacion de vueltas (n) en sus devanados, asi como su voltaje primario
 
 
 6.- Bibliografia:
