@@ -19,7 +19,7 @@ Tema: Resolucion de los ejercicios impares de los capitulos 13 y 14 del libro Pr
 
 1.- Objetivos:
 
-Generales:
+General:
 
 • Entender lo que es un inductor y lo que es un transformador, tanto en sus conceptos preliminares asi como en aplicaciones practicas y teoricas. 
 
@@ -91,7 +91,31 @@ SECCIÓN 14–1 Inductancia mutua
 
 ![image](https://user-images.githubusercontent.com/93210648/152652374-4a1db1a5-ce8a-479d-bd33-a9d36cda883c.png)
 
+SECCIÓN 14–2 El transformador básico
 
+3. ¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario?. ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
+
+![image](https://user-images.githubusercontent.com/93210648/152716499-6ce4eb73-ef2e-4f3e-abcf-2ffc3af18b04.png)
+
+5. Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.
+
+![image](https://user-images.githubusercontent.com/93210648/152716847-4841648e-d6b7-4027-af4d-88d007b91ada.png)
+
+![image](https://user-images.githubusercontent.com/93210648/152719965-9ee9410e-0c93-4d1b-8cd5-fffb21e1d4aa.png)
+
+SECCIÓN 14–3 Transformadores elevadores y reductores
+
+7. El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 5?
+
+![image](https://user-images.githubusercontent.com/93210648/152720338-e0a054d5-c351-45d9-a6cb-d9599ee7caae.png)
+
+9. Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
+
+![image](https://user-images.githubusercontent.com/93210648/152720805-836bbb09-9077-478f-879c-5e217d5116a0.png)
+
+11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
+
+![image](https://user-images.githubusercontent.com/93210648/152721149-e6334e9f-0bd3-427f-9138-17ed38b4b491.png)
 
 
 
